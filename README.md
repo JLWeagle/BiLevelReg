@@ -10,7 +10,7 @@ This is the official code for the paper "Bi-level Probabilistic Feature Learning
 # Pretrained models
 
 > The easiest way to get started is to evaluate our trained models, run:  <br>
-> python test.py
+> <p><code>python test.py</code></p>
 
 # Reference
 
