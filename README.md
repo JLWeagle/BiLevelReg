@@ -3,6 +3,8 @@ A 3D Brain MR Registration model.
 
 This is the official code for the paper "Bi-level Probabilistic Feature Learning for Deformable Image Registration"
 
+![Alt text](pipelin.png)
+
 # Requirements
 
 > Python >= 3.5.5, Tensorflow, Keras
