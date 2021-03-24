@@ -6,9 +6,9 @@ This is the official code for the paper "Bi-level Probabilistic Feature Learning
 ------------------------------------------------------------------------
 # Requirements
 
-Python >= 3.5.5, PyTorch == 0.3.1, torchvision == 0.2.0
+>Python >= 3.5.5, PyTorch == 0.3.1, torchvision == 0.2.0
 
-Note: PyTorch 0.4 is not supported at this moment and would lead to OOM.
+>Note: PyTorch 0.4 is not supported at this moment and would lead to OOM.
 
 ------------------------------------------------------------------------
 # Pretrained models
