@@ -1,5 +1,5 @@
 # BiLevelReg
-3D Brain MR Registration model
+A 3D Brain MR Registration model.
 
 This is the official code for the paper "Bi-level Probabilistic Feature Learning for Deformable Image Registration"
 
