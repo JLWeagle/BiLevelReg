@@ -7,7 +7,7 @@ This is the official code for the paper "Bi-level Probabilistic Feature Learning
 
 # Requirements
 
-> Python >= 3.5.5, Tensorflow, Keras
+> Python >= 3.5.5, Tensorflow = 1.13.1, Keras =  2.2.4
 
 # Pretrained models
 
@@ -16,7 +16,7 @@ This is the official code for the paper "Bi-level Probabilistic Feature Learning
 
 # Reference
 
-If you find our work useful in your research please consider citing our paper:
+If you find this code useful, please cite:
 
 > @inproceedings{LiuLZFL20, <br>
   author    = {Risheng Liu and Zi Li and Yuxi Zhang and Xin Fan and Zhongxuan Luo}, <br>
